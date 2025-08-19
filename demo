@@ -1,0 +1,6 @@
+skdirproyecto demo && cd Proyecto-demo
+git init
+echo "hola, Git" > README.md
+git add README.md
+git commir.m "Primer commit"
+got log --oneline --graph --decorate --all
